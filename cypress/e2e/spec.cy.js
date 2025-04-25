@@ -1,7 +1,7 @@
 import { SelectablePage } from "../../pageObjects/selectablePage"
 
-describe("Juice-shop scenarios", () => {
-  context("Without auto login", () => {
+describe("MD1", () => {
+  context("By Kristers Jirgensons", () => {
     beforeEach(() => {
       SelectablePage.visit();
     });
